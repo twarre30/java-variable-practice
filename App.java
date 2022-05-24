@@ -15,7 +15,7 @@ class App {
     Float odometerReading = 40125.5f;
     System.out.println(odometerReading);
 
-    Float vehiclePrice = 35500.00f;
+    double vehiclePrice = 35500.00;
     System.out.println(vehiclePrice);
 
     char qualityRating = 'A';
